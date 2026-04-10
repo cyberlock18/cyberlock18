@@ -11,7 +11,7 @@
 ## 📌 About Me
 - 🔐 Working in Linux Systems Administrator as (L2)
 - 🛡️ Focused on system hardening, SELinux and automation  
-- ⚙️ Automation with Bash & Ansible  
+- ⚙️ Automation with Bash, Ansible  & Python
 - 🌱 Currently improving C/C++ and security fundamentals  
 - 💼 Interested in secure infrastructure within finance & fintech  
 
